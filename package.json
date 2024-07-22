@@ -1,0 +1,13 @@
+{
+  "name": "first-adventure-game2024",
+  "version": "1.0.0",
+  "description": "The best adventure game.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
